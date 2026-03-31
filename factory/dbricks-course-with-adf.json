@@ -1,0 +1,9 @@
+{
+	"name": "dbricks-course-with-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3fced1f-9c71-4f84-b865-e5c1931529ed",
+		"tenantId": "5608424d-162f-4f0c-910c-21eaa808507f"
+	}
+}
