@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dbricks-course-with-adf"
+		},
+		"LS_Databricks_accessToken": {
+			"value": ""
+		},
+		"ls_movie_history_adls_accountKey": {
+			"value": ""
+		},
+		"LS_Databricks_properties_typeProperties_existingClusterId": {
+			"value": "0307-003124-798kkpcy"
+		},
+		"ls_movie_history_adls_properties_typeProperties_url": {
+			"value": "https://moviehistory22.dfs.core.windows.net/"
+		}
+	}
+}
