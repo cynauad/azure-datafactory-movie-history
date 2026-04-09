@@ -7,8 +7,8 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Week",
-				"interval": 15,
+				"frequency": "Month",
+				"interval": 12,
 				"startTime": "2026-03-31T11:50:00Z",
 				"timeZone": "UTC"
 			}
